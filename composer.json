@@ -1,7 +1,16 @@
 {    
     "name": "aclavijo/cakephp-installer-plugin",
     "type": "composer-plugin",
+    "description": "Composer installer for aclavijo/cakeopenidconnect",
+    "homepage": "https://github.com/AClavijo/cake-installer",
     "license": "MIT",
+    "authors": [
+        {
+            "name": "Antoine Clavijo",
+            "email": "antoine.clavijo@gmail.com",
+            "role": "Developer"
+        }
+    ],
     "autoload": {
         "psr-0": {"aclavijo\\Composer": "src/"}
     },
