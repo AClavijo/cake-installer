@@ -1,0 +1,14 @@
+{    
+    "name": "aclavijo/cakephp-installer-plugin",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "autoload": {
+        "psr-0": {"aclavijo\\Composer": "src/"}
+    },
+    "extra": {
+        "class": "aclavijo\\Composer\\CakeInstallerPlugin"
+    },
+    "require": {
+        "composer-plugin-api": "^1.0"
+    }
+}
