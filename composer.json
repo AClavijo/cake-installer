@@ -3,7 +3,7 @@
     "type": "composer-plugin",
     "license": "MIT",
     "autoload": {
-        "psr-0": {"aclavijo\\Composer": "src/"}
+        "psr-0": {"aclavijo\\Composer": "Composer/"}
     },
     "extra": {
         "class": "aclavijo\\Composer\\CakeInstallerPlugin"
