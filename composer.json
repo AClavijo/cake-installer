@@ -7,8 +7,5 @@
     },
     "extra": {
         "class": "aclavijo\\Composer\\CakeInstallerPlugin"
-    },
-    "require": {
-        "composer-plugin-api": "^1.0"
     }
 }
